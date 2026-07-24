@@ -4,8 +4,8 @@
   "homepage": "http://www.onlyoffice.com",
   "private": true,
   "dependencies": {
-    "@babel/core": "^7.25.2",
-    "@babel/preset-env": "^7.25.3",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
     "copy-webpack-plugin": "^13.0.0",
     "css-loader": "^7.1.2",
     "less": "^4.2.0",
@@ -13,7 +13,7 @@
     "mini-css-extract-plugin": "^2.9.2",
     "sharp": "^0.33.5",
     "string-replace-loader": "3.3.0",
-    "svgo": "^3.3.3",
+    "svgo": "^3.3.4",
     "terser": "^5.20.0",
     "terser-webpack-plugin": "^5.3.11",
     "webpack": "^5.98.0",
@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "chai": "^5.1.0",
-    "mocha": "^10.2.0"
+    "mocha": "^11.7.6"
   }
 }
